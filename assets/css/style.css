@@ -3,10 +3,13 @@
 @import url("bootstrap/bootstrap-theme.css");
 @import url("bootstrap/font-awesome.css");
 
-body{
+html{
 	background:url(../img/bg.png) no-repeat bottom center;
-	font-family:Tahoma, Geneva, sans-serif;
 	min-height:100%;
+}
+
+body{
+	font-family:Tahoma, Geneva, sans-serif;
 }
 
 /********************************************************/
